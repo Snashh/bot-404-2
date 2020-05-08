@@ -1,0 +1,23 @@
+{
+  "name": "404",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Z",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "errors": "^0.3.0",
+    "fs": "0.0.1-security",
+    "js": "^0.1.0",
+    "lowdb": "^1.0.0",
+    "ms": "^2.1.2",
+    "random-puppy": "^1.1.0",
+    "superagent": "^5.1.0"
+  }
+}
